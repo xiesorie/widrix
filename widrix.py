@@ -49,8 +49,8 @@ def main():
     run_command(["sudo", "apt", "update"], "Updating system")
     run_command(["sudo", "apt", "upgrade", "-y"], "Upgrading system")
     run_command(["sudo", "apt", "install", "-y", "build-essential", "dkms", "git", "iw", "bc", "libelf-dev", "linux-headers-$(uname -r)", "rfkill"], "Installing dependencies")
-    run_command(["git", "clone", "https://github.com/morrownr/8821au-20210708.git"], "Downloading RTL8821AU driver")
-    run_command(["/bin/bash", "-c", "cd 8821au-20210708 && sudo ./install-driver.sh"], "Installing driver")
+    run_command(["git", "clone", "https://github.com/morrownr/8821au-20210708.git"], "Downloading RTL8821AU driver...")
+    run_command(["/bin/bash", "-c", "cd 8821au-20210708 && sudo ./install-driver.sh"], "Installing driver...")
     run_command(["sudo", "dkms", "status"], "Checking driver status")
     
     print("\n[+] Installation complete! A system reboot is recommended.")
