@@ -25,9 +25,9 @@ def check_wifi_adapter():
     print("[+] Checking USB Wi-Fi adapter...")
     result = subprocess.run(["lsusb"], capture_output=True, text=True)
     if "8821" in result.stdout:
-        print("[+] RTL8821AU adapter detected!\n")
+        print("[+] RTL8821AU adapter detected! \n")
     else:
-        print("[-] RTL8821AU adapter not found!\n")
+        print("[-] RTL8821AU adapter not found! \n")
         sys.exit(1)
 
 def confirm():
