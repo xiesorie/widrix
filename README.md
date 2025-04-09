@@ -37,8 +37,8 @@ python widrix.py <br>
 <br>
 If you encounter any issues or bugs while using this tool, please follow these steps to report them: 
 1. Go to the GitHub repository: https://github.com/xiesorie/widrix <br>
-2. Click on the Issues tab in the top menu. <br>
-3. Click on the New Issue button. <br>
+2. Click on the <b>Issues</b> tab in the top menu. <br>
+3. Click on the <b>New Issue</b> button. <br>
 4. Provide a clear title and detailed description of the issue you're facing. <br>
 5. If possible, include error messages, log files, or screenshots to help us understand the issue better. <br>
 We appreciate your feedback and will work to resolve the issue as soon as possible. <br> 
