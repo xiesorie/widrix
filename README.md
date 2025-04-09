@@ -43,7 +43,6 @@ If you encounter any issues or bugs while using this tool, please follow these s
 5. If possible, include error messages, log files, or screenshots to help us understand the issue better. <br>
 We appreciate your feedback and will work to resolve the issue as soon as possible. <br> 
 <b>Thank you for using the tool! </b>
-If you encounter any problems, make sure you have python or git installed.</i>
 <br><br><br>
 
 
