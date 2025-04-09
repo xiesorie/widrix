@@ -42,7 +42,7 @@ If you encounter any issues or bugs while using this tool, please follow these s
 4. Provide a clear title and detailed description of the issue you're facing. <br>
 5. If possible, include error messages, log files, or screenshots to help us understand the issue better. <br>
 We appreciate your feedback and will work to resolve the issue as soon as possible. <br>
-<br>>
+<br>
 <b>Thank you for using the tool! </b>
 
 
