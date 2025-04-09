@@ -25,4 +25,26 @@ A command-line tool for automating driver installation for RTL8821AU Wi-Fi card 
 <br>
 <br>
 
-<b>After doing these step:</b>
+<b>After doing these steps write this;</b> <br>
+<i>First make sure you have pyhton or git installed.</i> <br>
+git clone https://github.com/xiesorie/widrix <br>
+cd widrix <br>
+python widrix.py <br>
+
+<b>Congratulations! Done.</b> <br> <br>
+
+<b>For Reporting Issues or Bugs</b> 
+<br>
+If you encounter any issues or bugs while using this tool, please follow these steps to report them: 
+1. Go to the GitHub repository: https://github.com/xiesorie/widrix <br>
+2. Click on the Issues tab in the top menu. <br>
+3. Click on the New Issue button. <br>
+4. Provide a clear title and detailed description of the issue you're facing. <br>
+5. If possible, include error messages, log files, or screenshots to help us understand the issue better. <br>
+We appreciate your feedback and will work to resolve the issue as soon as possible. <br> 
+<b>Thank you for using the tool! </b>
+If you encounter any problems, make sure you have python or git installed.</i>
+<br><br><br>
+
+
+
