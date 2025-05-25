@@ -25,7 +25,7 @@ A command-line tool for automating driver installation for RTL8821AU Wi-Fi card 
 <br>
 <br>
 
-<b>After doing these steps write this;</b> <br>
+<b>After doing these steps write this; </b> <br>
 <i>First make sure you have pyhton or git installed.</i> <br>
 git clone https://github.com/xiesorie/widrix <br>
 cd widrix <br>
